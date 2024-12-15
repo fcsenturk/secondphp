@@ -1,0 +1,2 @@
+# secondphp
+Php denemeleri
